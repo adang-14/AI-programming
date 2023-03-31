@@ -2,8 +2,8 @@
 
 My implementation to solve:
 
-* 8 queens problem with genetic algorithm 
+* 8 queens problem with GA
 
-* 8-board with heuristic searching
+* 8-board with A* & GBFS
 
-* Tictactoe with RL Q-Learning
+* Tictactoe with RL QLearning
